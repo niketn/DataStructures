@@ -7,6 +7,16 @@ This Repository contains Operations of Various data structures such as:
 4. Trees
 5. Graphs
 
+Queue Programs:
+1. Circular Queue
+2. DeQueue
+3. Priority-Queue
+
+Stack Programs:
+Stack operations using two stacks
+
+
+LinkedList Programs:
 In LinkedList code, i am performing these operations on two Linkedlists:
 a) Concatenation of two linkedlists
 b) Search
@@ -14,6 +24,10 @@ c) Reverse
 e) Delete
 f) Split
 
+Camparing of two linkedlists
+Merge and sort with two linkedlists
+
+Trees Data-structures programs:
 In BST operations on Tree, The following operations were performed:
 - Insert an element into tree
 - Delete an element from the tree
